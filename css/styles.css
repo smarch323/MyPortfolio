@@ -1,0 +1,163 @@
+/* Title Section */
+body {
+    font-family: "Permanent Marker";
+    background-color: #D9D7F1;
+  }
+  
+  .container-fluid {
+    padding: 0% 5% 5%;
+  }
+  
+  /* Navigation Bar */
+  .navbar {
+    padding: 0 0 4.5rem;
+  }
+  
+  .navbar-brand {
+    font-size: 2.5rem;
+    color: purple;
+  }
+  
+  .navbar-brand:hover {
+    font-size: 2.5rem;
+    color: #E7FBBE;
+  }
+  
+  .nav-item {
+    padding: 0 18px;
+  }
+  
+  .nav-link {
+    font-size: 1.2rem;
+    color: purple;
+  }
+  
+  .nav-link:hover {
+    font-size: 1.2rem;
+    color: #E7FBBE;
+  }
+  
+  /* Title Section */
+  .title{
+  padding: 0% 5% 0%;
+    }
+  
+.bioPic {
+    border-radius: 100%;
+    height: 100px;
+    float: left;
+    padding-right: 15px;
+}
+
+  .big-heading {
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 1 rem;
+    line-height: 1.5;
+    color: purple;
+  }
+  
+  .subhead {
+    font-family: "Montserrat";
+    color: #19011a;
+    font-size: 1rem;
+  }
+  .courseLink {
+    font-family: "Montserrat";
+    color: purple;
+    font-size: 1rem;
+  }
+  .courseLink:hover {
+    color: #E7FBBE;
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+  
+.mission{
+    color: purple;
+    font-size: 1rem;
+    font-family: "McLaren";
+    font-weight: bold;
+
+    line-height: 1.5;
+    text-align: center;
+    padding: 15px 10% 0px 10%;
+}
+
+
+  
+  /* Portfolio Section */
+
+  .portfolioSection{
+    padding: 0% 5% 0%;
+      }
+
+  .PortfolioProjects{
+    background-color: purple;
+  }
+
+  .portHeader{
+    font-family: "Montserrat";
+    font-weight: bold;
+    font-size: 1 rem;
+    line-height: 1.5;
+    color: #E7FBBE;
+    text-align: center;
+  }
+
+  .portTop{
+    padding-top: 20px;
+  }
+
+  .portProjBox{
+border-color: black;
+border-style: dotted;
+padding: 5px;
+text-align: center;
+font-family: "Montserrat";
+  }
+
+  .pT {
+font-size: 2rem;
+  }
+  .techs{
+font-style: italic;
+}
+
+  .project {
+    color: purple;
+    font-size: 2rem;
+    line-height: 1.5;
+    text-decoration: underline;
+
+  }
+  
+  .project:hover {
+    color: #E7FBBE;
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+
+
+.portPic{
+    max-width: 100%;
+padding: 0 5% 1% 5%;
+}  
+
+.portPicFinal{
+    padding: 5px 5% 1% 5%;
+    height: 150px;
+}
+.techs{
+    font-style: italic;
+    line-height: 1;
+    }
+ 
+  
+  /* Color Palette
+  #D9D7F1
+  #FFFDDE
+  #E7FBBE
+  #FFCBCB
+  */
+
